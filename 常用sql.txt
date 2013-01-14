@@ -1,0 +1,7 @@
+SELECT * FROM cfg_item WHERE cfg_itemName LIKE '%“¯–”%'
+
+SELECT * FROM cfg_conversation WHERE cfg_conversation LIKE '%Œ“÷æ‘∏%'
+
+SELECT * FROM cfg_conversation WHERE cfg_conversation LIKE '%#6#%'
+
+SELECT * FROM cfg_npc WHERE cfg_deploy LIKE '%#6#%'
